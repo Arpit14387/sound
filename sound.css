@@ -1,0 +1,21 @@
+
+
+.title{
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: yellowgreen;
+    font-style: italic;
+    padding-bottom: 10px;
+}
+
+.text{
+    text-align: center;
+    padding: 10px;
+    }
+
+
+.op{
+    opacity: 0.5;
+
+} 
